@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Codes\\BookManager\\BookManager-Delfin\\BookManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFCFCBD-323D-4EAD-92DE-1908C80B5D09}|BookManager.MVC\\BookManager.MVC.csproj|c:\\codes\\bookmanager\\bookmanager-delfin\\bookmanager\\bookmanager.mvc\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFCFCBD-323D-4EAD-92DE-1908C80B5D09}|BookManager.MVC\\BookManager.MVC.csproj|solutionrelative:bookmanager.mvc\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFCFCBD-323D-4EAD-92DE-1908C80B5D09}|BookManager.MVC\\BookManager.MVC.csproj|c:\\codes\\bookmanager\\bookmanager-delfin\\bookmanager\\bookmanager.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFCFCBD-323D-4EAD-92DE-1908C80B5D09}|BookManager.MVC\\BookManager.MVC.csproj|solutionrelative:bookmanager.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFCFCBD-323D-4EAD-92DE-1908C80B5D09}|BookManager.MVC\\BookManager.MVC.csproj|c:\\codes\\bookmanager\\bookmanager-delfin\\bookmanager\\bookmanager.mvc\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EFCFCBD-323D-4EAD-92DE-1908C80B5D09}|BookManager.MVC\\BookManager.MVC.csproj|solutionrelative:bookmanager.mvc\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFCFCBD-323D-4EAD-92DE-1908C80B5D09}|BookManager.MVC\\BookManager.MVC.csproj|c:\\codes\\bookmanager\\bookmanager-delfin\\bookmanager\\bookmanager.mvc\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EFCFCBD-323D-4EAD-92DE-1908C80B5D09}|BookManager.MVC\\BookManager.MVC.csproj|solutionrelative:bookmanager.mvc\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFCFCBD-323D-4EAD-92DE-1908C80B5D09}|BookManager.MVC\\BookManager.MVC.csproj|c:\\codes\\bookmanager\\bookmanager-delfin\\bookmanager\\bookmanager.mvc\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFCFCBD-323D-4EAD-92DE-1908C80B5D09}|BookManager.MVC\\BookManager.MVC.csproj|solutionrelative:bookmanager.mvc\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604DB5E9-A719-41E5-9BCB-CDF0E8255EC5}|BookManager.WebAPI\\BookManager.WebAPI.csproj|c:\\codes\\bookmanager\\bookmanager-delfin\\bookmanager\\bookmanager.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604DB5E9-A719-41E5-9BCB-CDF0E8255EC5}|BookManager.WebAPI\\BookManager.WebAPI.csproj|solutionrelative:bookmanager.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604DB5E9-A719-41E5-9BCB-CDF0E8255EC5}|BookManager.WebAPI\\BookManager.WebAPI.csproj|c:\\codes\\bookmanager\\bookmanager-delfin\\bookmanager\\bookmanager.webapi\\controllers\\bookscontroller.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{604DB5E9-A719-41E5-9BCB-CDF0E8255EC5}|BookManager.WebAPI\\BookManager.WebAPI.csproj|solutionrelative:bookmanager.webapi\\controllers\\bookscontroller.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604DB5E9-A719-41E5-9BCB-CDF0E8255EC5}|BookManager.WebAPI\\BookManager.WebAPI.csproj|c:\\codes\\bookmanager\\bookmanager-delfin\\bookmanager\\bookmanager.webapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604DB5E9-A719-41E5-9BCB-CDF0E8255EC5}|BookManager.WebAPI\\BookManager.WebAPI.csproj|solutionrelative:bookmanager.webapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 398,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Codes\\BookManager\\BookManager-Delfin\\BookManager\\BookManager.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "BookManager.MVC\\Program.cs",
+              "ToolTip": "C:\\Codes\\BookManager\\BookManager-Delfin\\BookManager\\BookManager.MVC\\Program.cs",
+              "RelativeToolTip": "BookManager.MVC\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T10:42:27.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Codes\\BookManager\\BookManager-Delfin\\BookManager\\BookManager.MVC\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "BookManager.MVC\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Codes\\BookManager\\BookManager-Delfin\\BookManager\\BookManager.MVC\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "BookManager.MVC\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-14T10:39:38.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Codes\\BookManager\\BookManager-Delfin\\BookManager\\BookManager.MVC\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookManager.MVC\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Codes\\BookManager\\BookManager-Delfin\\BookManager\\BookManager.MVC\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "BookManager.MVC\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-14T10:39:00.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Codes\\BookManager\\BookManager-Delfin\\BookManager\\BookManager.MVC\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookManager.MVC\\Models\\Book.cs",
+              "ToolTip": "C:\\Codes\\BookManager\\BookManager-Delfin\\BookManager\\BookManager.MVC\\Models\\Book.cs",
+              "RelativeToolTip": "BookManager.MVC\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T10:28:13.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Codes\\BookManager\\BookManager-Delfin\\BookManager\\BookManager.MVC\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookManager.MVC\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Codes\\BookManager\\BookManager-Delfin\\BookManager\\BookManager.MVC\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookManager.MVC\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T10:26:20.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Codes\\BookManager\\BookManager-Delfin\\BookManager\\BookManager.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BookManager.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Codes\\BookManager\\BookManager-Delfin\\BookManager\\BookManager.WebAPI\\Program.cs",
+              "RelativeToolTip": "BookManager.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T10:15:48.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Codes\\BookManager\\BookManager-Delfin\\BookManager\\BookManager.WebAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookManager.WebAPI\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Codes\\BookManager\\BookManager-Delfin\\BookManager\\BookManager.WebAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookManager.WebAPI\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T10:14:39.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Codes\\BookManager\\BookManager-Delfin\\BookManager\\BookManager.WebAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookManager.WebAPI\\Models\\Book.cs",
+              "ToolTip": "C:\\Codes\\BookManager\\BookManager-Delfin\\BookManager\\BookManager.WebAPI\\Models\\Book.cs",
+              "RelativeToolTip": "BookManager.WebAPI\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T10:14:03.422Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

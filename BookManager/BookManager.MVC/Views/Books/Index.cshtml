@@ -1,0 +1,11 @@
+﻿@model IEnumerable<BookManager.MVC.Models.Book>
+
+<h2>Book List</h2>
+<ul>
+    @foreach (var book in Model)
+    {
+        <li>@book.Title</li>
+    }
+</ul>
+
+<a href="/Books/Create">Add New Book</a>

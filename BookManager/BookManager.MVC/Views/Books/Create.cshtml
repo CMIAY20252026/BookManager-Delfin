@@ -1,0 +1,17 @@
+﻿@model BookManager.MVC.Models.Book
+
+<h2>Add Book</h2>
+<form asp-action="Create" method="post">
+    <div>
+        <label>Title</label>
+        <input asp-for="Title" />
+        <span asp-validation-for="Title"></span>
+    </div>
+    <button type="submit">Save</button>
+</form>
+
+<a href="/Books/Index">Back to List</a>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
