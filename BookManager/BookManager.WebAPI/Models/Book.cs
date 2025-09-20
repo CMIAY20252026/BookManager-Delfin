@@ -4,8 +4,14 @@ namespace BookManager.WebAPI.Models
 {
     public class Book
     {
-        [Required(ErrorMessage = "Title is required.")]
-        [MinLength(3, ErrorMessage = "Title must be at least 3 characters long.")]
-        public string Title { get; set; } = string.Empty;
+        public int Id { get; set; }
+
+        [Required(ErrorMessage = "Title is required")]
+        [MinLength(2, ErrorMessage = "Title must be at least 3 characters long")]
+        public string Title { get; set; }
+
+        [Required(ErrorMessage = "Author is required")]
+        [MinLength(2, ErrorMessage = "Author must be at least 2 characters long")]
+        public string Author { get; set; }
     }
 }
