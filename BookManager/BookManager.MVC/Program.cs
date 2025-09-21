@@ -11,6 +11,13 @@ namespace BookManager.MVC
 
             builder.Services.AddHttpClient();
 
+            builder.Services.AddHttpClient("BookApi", client =>
+            {
+                client.BaseAddress = new Uri("https://localhost:7280/api/");
+            });
+
+            builder.Services.AddHttpClient<BookManager.MVC.Services.BookService>();
+
 
             var app = builder.Build();
 

@@ -11,14 +11,12 @@ namespace BookManager.WebAPI.Controllers
     {
         private static List<Book> books = new List<Book>();
 
-        //get api/books
         [HttpGet]
         public IActionResult GetBooks()
         {
             return Ok(books);
         }
 
-        //get api/books/{id}
         [HttpGet("{id}")]
         public IActionResult GetBook(int id)
         {
@@ -28,21 +26,18 @@ namespace BookManager.WebAPI.Controllers
             return Ok(book);
         }
 
-        //post api/books
         [HttpPost]
         public IActionResult AddBook([FromBody] Book book)
         {
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
-            // Auto-generate ID
             book.Id = books.Count > 0 ? books.Max(b => b.Id) + 1 : 1;
 
             books.Add(book);
             return CreatedAtAction(nameof(GetBook), new { id = book.Id }, book);
         }
 
-        //upd api/books/{id}
         [HttpPut("{id}")]
         public IActionResult UpdateBook(int id, [FromBody] Book updatedBook)
         {
@@ -57,7 +52,6 @@ namespace BookManager.WebAPI.Controllers
             return Ok(book);
         }
 
-        //delete api/books/{id}
         [HttpDelete("{id}")]
         public IActionResult DeleteBook(int id)
         {
